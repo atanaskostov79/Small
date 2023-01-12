@@ -1,0 +1,5029 @@
+array(4) {
+  ["categories"]=>
+  array(123) {
+    [245]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "245"
+      ["parent_id"]=>
+      int(0)
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(39) "Компютърни Аксесоари"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от компютърни аксесоари&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(39) "Компютърни Аксесоари"
+      }
+      ["image_original"]=>
+      bool(false)
+      ["image_preview"]=>
+      bool(false)
+      ["href"]=>
+      string(71) "https://www.bgelectronics.eu/index.php?route=product/category&amp;path="
+    }
+    [417]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "417"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "Кабели"
+          ["description"]=>
+          string(284) "&lt;p&gt;Широка гама от кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(54) "Компютърни Аксесоари > Кабели"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/kategorii vektor/cab.jpg"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/kategorii vektor/cab-200x200.jpg"
+      ["href"]=>
+      string(63) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели"
+    }
+    [116]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "116"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(20) "Захранващи"
+          ["description"]=>
+          string(313) "&lt;p&gt;Широка гама от&amp;nbsp;Захранващи кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(77) "Компютърни Аксесоари > Кабели > Захранващи"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/0/png/category/power.png"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/0/png/category/power-200x200.png"
+      ["href"]=>
+      string(83) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/захранващi"
+    }
+    [113]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "113"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(14) "Мрежови"
+          ["description"]=>
+          string(307) "&lt;p&gt;Широка гама от&amp;nbsp;Мрежови кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(71) "Компютърни Аксесоари > Кабели > Мрежови"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/0/png/category/lan.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/0/png/category/lan-200x200.png"
+      ["href"]=>
+      string(72) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/mrezhovi"
+    }
+    [115]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "115"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Аудио"
+          ["description"]=>
+          string(294) "&lt;p&gt;Широка гама от Аудио кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(67) "Компютърни Аксесоари > Кабели > Аудио"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/0/png/category/audio.png"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/0/png/category/audio-200x200.png"
+      ["href"]=>
+      string(77) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/аудио-bg"
+    }
+    [99]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "99"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(4) "HDMI"
+          ["description"]=>
+          string(298) "&lt;p&gt;&amp;nbsp;Широка гама от HDMI кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(61) "Компютърни Аксесоари > Кабели > HDMI"
+      }
+      ["image_original"]=>
+      string(58) "https://www.bgelectronics.eu/image/0/png/category/hdmi.png"
+      ["image_preview"]=>
+      string(72) "https://www.bgelectronics.eu/image/cache/0/png/category/hdmi-200x200.png"
+      ["href"]=>
+      string(71) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/hdmi-bg"
+    }
+    [112]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "112"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(9) "VGA / DVI"
+          ["description"]=>
+          string(305) "&lt;p&gt;Широка гама от Кабели за монитор.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;
+"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(66) "Компютърни Аксесоари > Кабели > VGA / DVI"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/0/png/category/vga.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/0/png/category/vga-200x200.png"
+      ["href"]=>
+      string(74) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/vga-dvi-bg"
+    }
+    [346]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "346"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "Display port"
+          ["description"]=>
+          string(295) "&lt;p&gt;Широка гама от Displayport кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Компютърни Аксесоари > Кабели > Display port"
+      }
+      ["image_original"]=>
+      string(56) "https://www.bgelectronics.eu/image/0/png/category/dp.png"
+      ["image_preview"]=>
+      string(70) "https://www.bgelectronics.eu/image/cache/0/png/category/dp-200x200.png"
+      ["href"]=>
+      string(79) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/display-port-bg"
+    }
+    [102]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "102"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(3) "USB"
+          ["description"]=>
+          string(307) "&lt;p&gt;&amp;nbsp;Широка гама от USB кабели.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(60) "Компютърни Аксесоари > Кабели > USB"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/0/png/category/usb.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/0/png/category/usb-200x200.png"
+      ["href"]=>
+      string(70) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/usb-bg"
+    }
+    [420]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "420"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(19) "За принтер"
+          ["description"]=>
+          string(303) "&lt;p&gt;Широка гама от Кабели за принтер.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(76) "Компютърни Аксесоари > Кабели > За принтер"
+      }
+      ["image_original"]=>
+      string(61) "https://www.bgelectronics.eu/image/0/png/category/printer.png"
+      ["image_preview"]=>
+      string(75) "https://www.bgelectronics.eu/image/cache/0/png/category/printer-200x200.png"
+      ["href"]=>
+      string(74) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/za-printer"
+    }
+    [317]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "317"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "UTP/FTP/SFTP"
+          ["description"]=>
+          string(300) "&lt;p&gt;Широка гама от UTP | FTP | SFTP кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Компютърни Аксесоари > Кабели > UTP/FTP/SFTP"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/0/png/category/ftp.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/0/png/category/ftp-200x200.png"
+      ["href"]=>
+      string(84) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/utp-ftp-sftp-305m-bg"
+    }
+    [315]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "315"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(13) "DC Букси"
+          ["description"]=>
+          string(307) "&lt;p&gt;Широка гама от DC Букси за адаптери.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(70) "Компютърни Аксесоари > Кабели > DC Букси"
+      }
+      ["image_original"]=>
+      string(56) "https://www.bgelectronics.eu/image/0/png/category/dc.png"
+      ["image_preview"]=>
+      string(70) "https://www.bgelectronics.eu/image/cache/0/png/category/dc-200x200.png"
+      ["href"]=>
+      string(69) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/dc-bg"
+    }
+    [109]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "109"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(4) "CCTV"
+          ["description"]=>
+          string(325) "&lt;p&gt;Широка гама от CCTV кабели за видеонаблюдение.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(61) "Компютърни Аксесоари > Кабели > CCTV"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/0/png/category/bnc.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/0/png/category/bnc-200x200.png"
+      ["href"]=>
+      string(94) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/видеонаблюдение"
+    }
+    [419]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "419"
+      ["parent_id"]=>
+      string(3) "417"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Други"
+          ["description"]=>
+          string(283) "&lt;p&gt;Широка гама от кабели.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(67) "Компютърни Аксесоари > Кабели > Други"
+      }
+      ["image_original"]=>
+      string(58) "https://www.bgelectronics.eu/image/0/png/category/sata.png"
+      ["image_preview"]=>
+      string(72) "https://www.bgelectronics.eu/image/cache/0/png/category/sata-200x200.png"
+      ["href"]=>
+      string(80) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/кабели/drugi-1723354875"
+    }
+    [263]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "263"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(34) "Адаптери за Лаптоп"
+          ["description"]=>
+          string(305) "&lt;p&gt;Широка гама от адаптери за лаптоп.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(76) "Компютърни Аксесоари > Адаптери за Лаптоп"
+      }
+      ["image_original"]=>
+      string(58) "https://www.bgelectronics.eu/image/kategorii vektor/ad.jpg"
+      ["image_preview"]=>
+      string(72) "https://www.bgelectronics.eu/image/cache/kategorii vektor/ad-200x200.jpg"
+      ["href"]=>
+      string(85) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп"
+    }
+    [83]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "83"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(11) "5V до 24V"
+          ["description"]=>
+          string(305) "&lt;p&gt;Широка гама от Адаптери от 5V до 24V.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(90) "Компютърни Аксесоари > Адаптери за Лаптоп > 5V до 24V"
+      }
+      ["image_original"]=>
+      string(61) "https://www.bgelectronics.eu/image/0/png/category/adapter.png"
+      ["image_preview"]=>
+      string(75) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-200x200.png"
+      ["href"]=>
+      string(95) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/5v-do-24v"
+    }
+    [88]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "88"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(9) "За Acer"
+          ["description"]=>
+          string(298) "&lt;p&gt;Широка гама от Адаптери за Acer.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(88) "Компютърни Аксесоари > Адаптери за Лаптоп > За Acer"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/0/png/category/adapter-acer.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-acer-200x200.png"
+      ["href"]=>
+      string(93) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-acer"
+    }
+    [92]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "92"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(9) "За Asus"
+          ["description"]=>
+          string(298) "&lt;p&gt;Широка гама от Адаптери за Asus.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(88) "Компютърни Аксесоари > Адаптери за Лаптоп > За Asus"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/0/png/category/adapter-asus.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-asus-200x200.png"
+      ["href"]=>
+      string(93) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-asus"
+    }
+    [89]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "89"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(9) "За Dell"
+          ["description"]=>
+          string(297) "&lt;p&gt;Широка гама от Адаптери за Dell.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(88) "Компютърни Аксесоари > Адаптери за Лаптоп > За Dell"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/0/png/category/adapter-dell.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-dell-200x200.png"
+      ["href"]=>
+      string(93) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-dell"
+    }
+    [87]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "87"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(7) "За HP"
+          ["description"]=>
+          string(296) "&lt;p&gt;Широка гама от Адаптери за HP.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(86) "Компютърни Аксесоари > Адаптери за Лаптоп > За HP"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/0/png/category/adapter-hp.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-hp-200x200.png"
+      ["href"]=>
+      string(91) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-hp"
+    }
+    [91]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "91"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(15) "За IBM/Lenovo"
+          ["description"]=>
+          string(304) "&lt;p&gt;Широка гама от Адаптери за IBM/Lenovo.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(94) "Компютърни Аксесоари > Адаптери за Лаптоп > За IBM/Lenovo"
+      }
+      ["image_original"]=>
+      string(68) "https://www.bgelectronics.eu/image/0/png/category/adapter-lenovo.png"
+      ["image_preview"]=>
+      string(82) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-lenovo-200x200.png"
+      ["href"]=>
+      string(99) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-ibm-lenovo"
+    }
+    [93]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "93"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "За Samsung"
+          ["description"]=>
+          string(301) "&lt;p&gt;Широка гама от Адаптери за Samsung.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(91) "Компютърни Аксесоари > Адаптери за Лаптоп > За Samsung"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/0/png/category/adapter-samsung.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-samsung-200x200.png"
+      ["href"]=>
+      string(96) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-samsung"
+    }
+    [90]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "90"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(9) "За Sony"
+          ["description"]=>
+          string(298) "&lt;p&gt;Широка гама от Адаптери за Sony.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(88) "Компютърни Аксесоари > Адаптери за Лаптоп > За Sony"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/0/png/category/adapter-sony.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-sony-200x200.png"
+      ["href"]=>
+      string(93) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-sony"
+    }
+    [86]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "86"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "За Toshiba"
+          ["description"]=>
+          string(301) "&lt;p&gt;Широка гама от Адаптери за Toshiba.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(91) "Компютърни Аксесоари > Адаптери за Лаптоп > За Toshiba"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/0/png/category/adapter-toshiba.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/0/png/category/adapter-toshiba-200x200.png"
+      ["href"]=>
+      string(96) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-toshiba"
+    }
+    [254]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "254"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "За Apple"
+          ["description"]=>
+          string(299) "&lt;p&gt;Широка гама от Адаптери за Apple.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(89) "Компютърни Аксесоари > Адаптери за Лаптоп > За Apple"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/0/png/category/applee.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/0/png/category/applee-200x200.png"
+      ["href"]=>
+      string(94) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/za-apple"
+    }
+    [592]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "592"
+      ["parent_id"]=>
+      string(3) "263"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(6) "Type-C"
+          ["description"]=>
+          string(298) "&lt;p&gt;Широка гама от Адаптери с Type-C.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(85) "Компютърни Аксесоари > Адаптери за Лаптоп > Type-C"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/Kategori Snimki/type-c-adapter.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/type-c-adapter-200x200.png"
+      ["href"]=>
+      string(102) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/адаптери-за-лаптоп/type-c-118275067"
+    }
+    [75]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "75"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(33) "Букси / Преходници"
+          ["description"]=>
+          string(314) "&lt;p&gt;Широка гама от&amp;nbsp;Букси и Преходници.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(75) "Компютърни Аксесоари > Букси / Преходници"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/kategorii vektor/buk.jpg"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/kategorii vektor/buk-200x200.jpg"
+      ["href"]=>
+      string(82) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/букси-преходници"
+    }
+    [81]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "81"
+      ["parent_id"]=>
+      string(2) "75"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Букси"
+          ["description"]=>
+          string(282) "&lt;p&gt;Широка гама от Букси.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(88) "Компютърни Аксесоари > Букси / Преходници > Букси"
+      }
+      ["image_original"]=>
+      string(77) "https://www.bgelectronics.eu/image/Kategori Snimki/buksi-prehodnici/buksi.png"
+      ["image_preview"]=>
+      string(91) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/buksi-prehodnici/buksi-200x200.png"
+      ["href"]=>
+      string(93) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/букси-преходници/букси"
+    }
+    [391]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "391"
+      ["parent_id"]=>
+      string(2) "75"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(30) "Преобразуватели"
+          ["description"]=>
+          string(326) "&lt;p&gt;Широка гама от Преобразуватели и Конвертори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(108) "Компютърни Аксесоари > Букси / Преходници > Преобразуватели"
+      }
+      ["image_original"]=>
+      string(87) "https://www.bgelectronics.eu/image/Kategori Snimki/buksi-prehodnici/preobrazuvateli.png"
+      ["image_preview"]=>
+      string(101) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/buksi-prehodnici/preobrazuvateli-200x200.png"
+      ["href"]=>
+      string(113) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/букси-преходници/преобразуватели"
+    }
+    [389]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "389"
+      ["parent_id"]=>
+      string(2) "75"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(20) "Преходници"
+          ["description"]=>
+          string(292) "&lt;p&gt;Широка гама от преходници.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(98) "Компютърни Аксесоари > Букси / Преходници > Преходници"
+      }
+      ["image_original"]=>
+      string(82) "https://www.bgelectronics.eu/image/Kategori Snimki/buksi-prehodnici/prehodnici.png"
+      ["image_preview"]=>
+      string(96) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/buksi-prehodnici/prehodnici-200x200.png"
+      ["href"]=>
+      string(103) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/букси-преходници/преходници"
+    }
+    [330]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "330"
+      ["parent_id"]=>
+      string(2) "75"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(61) "HDMI Суичове / Сплитери / Удължители"
+          ["description"]=>
+          string(311) "&lt;p&gt;Широка гама от HDMI Суичове и Сплитери.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(139) "Компютърни Аксесоари > Букси / Преходници > HDMI Суичове / Сплитери / Удължители"
+      }
+      ["image_original"]=>
+      string(80) "https://www.bgelectronics.eu/image/Kategori Snimki/buksi-prehodnici/spliteri.png"
+      ["image_preview"]=>
+      string(94) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/buksi-prehodnici/spliteri-200x200.png"
+      ["href"]=>
+      string(117) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/букси-преходници/hdmi-suichove-spliteri-ud-lzhiteli"
+    }
+    [633]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "633"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(27) "Втора употреба"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Компютърни Аксесоари > Втора употреба"
+      }
+      ["image_original"]=>
+      bool(false)
+      ["image_preview"]=>
+      bool(false)
+      ["href"]=>
+      string(65) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/vtora-upotreba"
+    }
+    [642]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "642"
+      ["parent_id"]=>
+      string(3) "633"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(20) "Компоненти"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(92) "Компютърни Аксесоари > Втора употреба > Компоненти"
+      }
+      ["image_original"]=>
+      bool(false)
+      ["image_preview"]=>
+      bool(false)
+      ["href"]=>
+      string(76) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/vtora-upotreba/komponenti"
+    }
+    [336]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "336"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(45) "Охладители / Вентилатори"
+          ["description"]=>
+          string(339) "&lt;p&gt;Широка гама от Компютърни охладители и вентилатори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(87) "Компютърни Аксесоари > Охладители / Вентилатори"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/kategorii vektor/ohl.jpg"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/kategorii vektor/ohl-200x200.jpg"
+      ["href"]=>
+      string(94) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/охладители-вентилатори"
+    }
+    [327]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "327"
+      ["parent_id"]=>
+      string(3) "336"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(21) "За процесор"
+          ["description"]=>
+          string(314) "&lt;p&gt;Широка гама от Охладители за процесор.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(111) "Компютърни Аксесоари > Охладители / Вентилатори > За процесор"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/Kategori Snimki/ohladiteli/cpu.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/ohladiteli/cpu-200x200.png"
+      ["href"]=>
+      string(135) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/охладители-вентилатори/охладител-за-процесор"
+    }
+    [355]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "355"
+      ["parent_id"]=>
+      string(3) "336"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(26) "За Видео Карта"
+          ["description"]=>
+          string(321) "&lt;p&gt;Широка гама от Вентилатори за видео карти.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(116) "Компютърни Аксесоари > Охладители / Вентилатори > За Видео Карта"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/Kategori Snimki/ohladiteli/vga.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/ohladiteli/vga-200x200.png"
+      ["href"]=>
+      string(140) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/охладители-вентилатори/охладител-за-видео-карта"
+    }
+    [85]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "85"
+      ["parent_id"]=>
+      string(3) "336"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(17) "За Лаптоп"
+          ["description"]=>
+          string(310) "&lt;p&gt;Широка гама от Охладители за лаптоп.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(107) "Компютърни Аксесоари > Охладители / Вентилатори > За Лаптоп"
+      }
+      ["image_original"]=>
+      string(72) "https://www.bgelectronics.eu/image/Kategori Snimki/ohladiteli/laptop.png"
+      ["image_preview"]=>
+      string(86) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/ohladiteli/laptop-200x200.png"
+      ["href"]=>
+      string(133) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/охладители-вентилатори/охладители-за-лаптоп"
+    }
+    [356]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "356"
+      ["parent_id"]=>
+      string(3) "336"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(22) "Вентилатори"
+          ["description"]=>
+          string(315) "&lt;p&gt;Широка гама от Компютърни вентилатори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(112) "Компютърни Аксесоари > Охладители / Вентилатори > Вентилатори"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/Kategori Snimki/ohladiteli/fan.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/ohladiteli/fan-200x200.png"
+      ["href"]=>
+      string(117) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/охладители-вентилатори/вентилатори"
+    }
+    [359]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "359"
+      ["parent_id"]=>
+      string(3) "336"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(21) "Термо Пасти"
+          ["description"]=>
+          string(293) "&lt;p&gt;Широка гама от Термо пасти.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(111) "Компютърни Аксесоари > Охладители / Вентилатори > Термо Пасти"
+      }
+      ["image_original"]=>
+      string(71) "https://www.bgelectronics.eu/image/Kategori Snimki/ohladiteli/pasti.png"
+      ["image_preview"]=>
+      string(85) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/ohladiteli/pasti-200x200.png"
+      ["href"]=>
+      string(116) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/охладители-вентилатори/termo-pasti-podlozhki"
+    }
+    [362]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "362"
+      ["parent_id"]=>
+      string(3) "336"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Други"
+          ["description"]=>
+          string(225) "&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(100) "Компютърни Аксесоари > Охладители / Вентилатори > Други"
+      }
+      ["image_original"]=>
+      string(71) "https://www.bgelectronics.eu/image/Kategori Snimki/ohladiteli/drugi.png"
+      ["image_preview"]=>
+      string(85) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/ohladiteli/drugi-200x200.png"
+      ["href"]=>
+      string(111) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/охладители-вентилатори/drugi-1562114439"
+    }
+    [325]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "325"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(39) "Компютърна Периферия"
+          ["description"]=>
+          string(310) "&lt;p&gt;Широка гама от компютърна периферия.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(81) "Компютърни Аксесоари > Компютърна Периферия"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/kategorii vektor/per5.jpg"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/kategorii vektor/per5-200x200.jpg"
+      ["href"]=>
+      string(90) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия"
+    }
+    [129]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "129"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(20) "Клавиатури"
+          ["description"]=>
+          string(294) "&lt;p&gt;Широка гама от Клавиатури.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;
+"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(104) "Компютърни Аксесоари > Компютърна Периферия > Клавиатури"
+      }
+      ["image_original"]=>
+      string(62) "https://www.bgelectronics.eu/image/0/png/category/keyboard.png"
+      ["image_preview"]=>
+      string(76) "https://www.bgelectronics.eu/image/cache/0/png/category/keyboard-200x200.png"
+      ["href"]=>
+      string(111) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/клавиатури"
+    }
+    [174]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "174"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Мишки"
+          ["description"]=>
+          string(282) "&lt;p&gt;Широка гама от Мишки.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(94) "Компютърни Аксесоари > Компютърна Периферия > Мишки"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/0/png/category/mouse.png"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/0/png/category/mouse-200x200.png"
+      ["href"]=>
+      string(101) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/мишки"
+    }
+    [97]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "97"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(16) "Подложки"
+          ["description"]=>
+          string(304) "&lt;p&gt;Широка гама от Подложки за мишки.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(100) "Компютърни Аксесоари > Компютърна Периферия > Подложки"
+      }
+      ["image_original"]=>
+      string(62) "https://www.bgelectronics.eu/image/0/png/category/mousepad.png"
+      ["image_preview"]=>
+      string(76) "https://www.bgelectronics.eu/image/cache/0/png/category/mousepad-200x200.png"
+      ["href"]=>
+      string(107) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/подложки"
+    }
+    [175]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "175"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(16) "Слушалки"
+          ["description"]=>
+          string(288) "&lt;p&gt;Широка гама от Слушалки.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(100) "Компютърни Аксесоари > Компютърна Периферия > Слушалки"
+      }
+      ["image_original"]=>
+      string(63) "https://www.bgelectronics.eu/image/0/png/category/headphone.png"
+      ["image_preview"]=>
+      string(77) "https://www.bgelectronics.eu/image/cache/0/png/category/headphone-200x200.png"
+      ["href"]=>
+      string(107) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/слушалки"
+    }
+    [176]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "176"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(18) "Тонколони"
+          ["description"]=>
+          string(290) "&lt;p&gt;Широка гама от Тонколони.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(102) "Компютърни Аксесоари > Компютърна Периферия > Тонколони"
+      }
+      ["image_original"]=>
+      string(62) "https://www.bgelectronics.eu/image/0/png/category/speakers.png"
+      ["image_preview"]=>
+      string(76) "https://www.bgelectronics.eu/image/cache/0/png/category/speakers-200x200.png"
+      ["href"]=>
+      string(109) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/тонколони"
+    }
+    [73]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "73"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(18) "Микрофони"
+          ["description"]=>
+          string(290) "&lt;p&gt;Широка гама от Микрофони.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(102) "Компютърни Аксесоари > Компютърна Периферия > Микрофони"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/0/png/category/mic.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/0/png/category/mic-200x200.png"
+      ["href"]=>
+      string(109) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/микрофони"
+    }
+    [128]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "128"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(19) "Уеб Камери"
+          ["description"]=>
+          string(291) "&lt;p&gt;Широка гама от Уеб Камери.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(103) "Компютърни Аксесоари > Компютърна Периферия > Уеб Камери"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/0/png/category/webcam.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/0/png/category/webcam-200x200.png"
+      ["href"]=>
+      string(110) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/уеб-камери"
+    }
+    [71]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "71"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(18) "Джойстици"
+          ["description"]=>
+          string(290) "&lt;p&gt;Широка гама от Джойстици.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(102) "Компютърни Аксесоари > Компютърна Периферия > Джойстици"
+      }
+      ["image_original"]=>
+      string(61) "https://www.bgelectronics.eu/image/0/png/category/gamepad.png"
+      ["image_preview"]=>
+      string(75) "https://www.bgelectronics.eu/image/cache/0/png/category/gamepad-200x200.png"
+      ["href"]=>
+      string(109) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/джойстици"
+    }
+    [69]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "69"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(7) "USB Hub"
+          ["description"]=>
+          string(288) "&lt;p&gt;Широка гама от USB хъбове.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(91) "Компютърни Аксесоари > Компютърна Периферия > USB Hub"
+      }
+      ["image_original"]=>
+      string(68) "https://www.bgelectronics.eu/image/Kategori Snimki/periferiq/hub.png"
+      ["image_preview"]=>
+      string(82) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/periferiq/hub-200x200.png"
+      ["href"]=>
+      string(101) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/usb-hub-bg"
+    }
+    [558]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "558"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "Памети"
+          ["description"]=>
+          string(317) "&lt;p&gt;Широка гама от USB Памети | Флашки на едро.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(96) "Компютърни Аксесоари > Компютърна Периферия > Памети"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/0/png/category/memory.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/0/png/category/memory-200x200.png"
+      ["href"]=>
+      string(97) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/pameti"
+    }
+    [68]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "68"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(26) "Четци за Карти"
+          ["description"]=>
+          string(298) "&lt;p&gt;Широка гама от Четци за Карти.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(110) "Компютърни Аксесоари > Компютърна Периферия > Четци за Карти"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/0/png/category/reader.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/0/png/category/reader-200x200.png"
+      ["href"]=>
+      string(117) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/четци-за-карта"
+    }
+    [70]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "70"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(9) "Bluetooth"
+          ["description"]=>
+          string(300) "&lt;p&gt;Широка гама от Bluetooth приемници.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(93) "Компютърни Аксесоари > Компютърна Периферия > Bluetooth"
+      }
+      ["image_original"]=>
+      string(73) "https://www.bgelectronics.eu/image/Kategori Snimki/periferiq/bluetoth.png"
+      ["image_preview"]=>
+      string(87) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/periferiq/bluetoth-200x200.png"
+      ["href"]=>
+      string(103) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/bluetooth-bg"
+    }
+    [123]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "123"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Чанти"
+          ["description"]=>
+          string(300) "&lt;p&gt;Широка гама от Чанти за лаптоп.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(94) "Компютърни Аксесоари > Компютърна Периферия > Чанти"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/0/png/category/bag.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/0/png/category/bag-200x200.png"
+      ["href"]=>
+      string(121) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/чанти-за-лаптопи"
+    }
+    [423]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "423"
+      ["parent_id"]=>
+      string(3) "325"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(19) "Кутии за HDD"
+          ["description"]=>
+          string(305) "&lt;p&gt;Широка гама от Кутии за хард диск.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(103) "Компютърни Аксесоари > Компютърна Периферия > Кутии за HDD"
+      }
+      ["image_original"]=>
+      string(58) "https://www.bgelectronics.eu/image/0/png/category/case.png"
+      ["image_preview"]=>
+      string(72) "https://www.bgelectronics.eu/image/cache/0/png/category/case-200x200.png"
+      ["href"]=>
+      string(124) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компютърна-периферия/кутии-за-хард-диск"
+    }
+    [178]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "178"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(34) "Компоненти и мрежи"
+          ["description"]=>
+          string(306) "&lt;p&gt;Широка гама от Компоненти и мрежи.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(76) "Компютърни Аксесоари > Компоненти и мрежи"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/kategorii vektor/komp.jpg"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/kategorii vektor/komp-200x200.jpg"
+      ["href"]=>
+      string(85) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи"
+    }
+    [426]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "426"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(25) "Звукови карти"
+          ["description"]=>
+          string(297) "&lt;p&gt;Широка гама от Звукови карти.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(104) "Компютърни Аксесоари > Компоненти и мрежи > Звукови карти"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/sound.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/sound-200x200.png"
+      ["href"]=>
+      string(111) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/звукови-карти"
+    }
+    [425]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "425"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(25) "Мрежови Карти"
+          ["description"]=>
+          string(297) "&lt;p&gt;Широка гама от Мрежови Карти.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(104) "Компютърни Аксесоари > Компоненти и мрежи > Мрежови Карти"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/lan.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/lan-200x200.png"
+      ["href"]=>
+      string(111) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/мрежови-карти"
+    }
+    [427]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "427"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(21) "PCI/ PCMCA Карти"
+          ["description"]=>
+          string(286) "&lt;p&gt;Широка гама от PCI Карти.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(100) "Компютърни Аксесоари > Компоненти и мрежи > PCI/ PCMCA Карти"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/pci.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/pci-200x200.png"
+      ["href"]=>
+      string(101) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/pci-pcmca-karti"
+    }
+    [376]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "376"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(35) "IDE/ SATA/ PCI преходници"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от IDE | SATA | PCI преходници.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(114) "Компютърни Аксесоари > Компоненти и мрежи > IDE/ SATA/ PCI преходници"
+      }
+      ["image_original"]=>
+      string(65) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/sata.png"
+      ["image_preview"]=>
+      string(79) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/sata-200x200.png"
+      ["href"]=>
+      string(109) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/ide-sata-pci-prehodnici"
+    }
+    [331]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "331"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(35) "Диагностични Карти"
+          ["description"]=>
+          string(307) "&lt;p&gt;Широка гама от Диагностични Карти.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(114) "Компютърни Аксесоари > Компоненти и мрежи > Диагностични Карти"
+      }
+      ["image_original"]=>
+      string(72) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/diagnostick.png"
+      ["image_preview"]=>
+      string(86) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/diagnostick-200x200.png"
+      ["href"]=>
+      string(105) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/diagnostichni-karti"
+    }
+    [377]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "377"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "DVD / Floppy"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(91) "Компютърни Аксесоари > Компоненти и мрежи > DVD / Floppy"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/dvd.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/dvd-200x200.png"
+      ["href"]=>
+      string(99) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/dvd-floppy-bg"
+    }
+    [365]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "365"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(19) "Пач Панели"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(98) "Компютърни Аксесоари > Компоненти и мрежи > Пач Панели"
+      }
+      ["image_original"]=>
+      string(65) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/pach.png"
+      ["image_preview"]=>
+      string(79) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/pach-200x200.png"
+      ["href"]=>
+      string(105) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/пач-панели"
+    }
+    [364]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "364"
+      ["parent_id"]=>
+      string(3) "178"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(29) "Рутери / Суичове"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(108) "Компютърни Аксесоари > Компоненти и мрежи > Рутери / Суичове"
+      }
+      ["image_original"]=>
+      string(67) "https://www.bgelectronics.eu/image/Kategori Snimki/mreji/router.png"
+      ["image_preview"]=>
+      string(81) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mreji/router-200x200.png"
+      ["href"]=>
+      string(113) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/компоненти-и-мрежи/рутери-суичове"
+    }
+    [486]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "486"
+      ["parent_id"]=>
+      string(3) "245"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Разни"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(52) "Компютърни Аксесоари > Разни"
+      }
+      ["image_original"]=>
+      string(63) "https://www.bgelectronics.eu/image/Kategori Snimki/drugi/vr.png"
+      ["image_preview"]=>
+      string(77) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/drugi/vr-200x200.png"
+      ["href"]=>
+      string(61) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни"
+    }
+    [501]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "501"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(53) "Разклонители и преходници 220V"
+          ["description"]=>
+          string(296) "&lt;p&gt;Широка гама от разклонители.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(108) "Компютърни Аксесоари > Разни > Разклонители и преходници 220V"
+      }
+      ["image_original"]=>
+      string(72) "https://www.bgelectronics.eu/image/Kategori Snimki/razni/razklonitel.png"
+      ["image_preview"]=>
+      string(86) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/razni/razklonitel-200x200.png"
+      ["href"]=>
+      string(86) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/разклонители"
+    }
+    [593]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "593"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Печат"
+          ["description"]=>
+          string(333) "&lt;p&gt;Широка гама от Термодиректни етикети и принтери.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(65) "Компютърни Аксесоари > Разни > Печат"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/Kategori Snimki/print.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/print-200x200.png"
+      ["href"]=>
+      string(69) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/etiketi"
+    }
+    [510]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "510"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(14) "Батерии"
+          ["description"]=>
+          string(305) "&lt;p&gt;Широка гама от Преносими батерии.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Компютърни Аксесоари > Разни > Батерии"
+      }
+      ["image_original"]=>
+      string(70) "https://www.bgelectronics.eu/image/Kategori Snimki/razni/batteries.png"
+      ["image_preview"]=>
+      string(84) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/razni/batteries-200x200.png"
+      ["href"]=>
+      string(76) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/батерии"
+    }
+    [78]=>
+    array(7) {
+      ["category_id"]=>
+      string(2) "78"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(16) "MP3 Плеъри"
+          ["description"]=>
+          string(288) "&lt;p&gt;Широка гама от MP3 Плеъри.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(71) "Компютърни Аксесоари > Разни > MP3 Плеъри"
+      }
+      ["image_original"]=>
+      string(61) "https://www.bgelectronics.eu/image/Kategori Snimki/player.png"
+      ["image_preview"]=>
+      string(75) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/player-200x200.png"
+      ["href"]=>
+      string(76) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/mp3-mp4-ple-ri"
+    }
+    [103]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "103"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(25) "FM Трансмитери"
+          ["description"]=>
+          string(297) "&lt;p&gt;Широка гама от FM Трансмитери.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(80) "Компютърни Аксесоари > Разни > FM Трансмитери"
+      }
+      ["image_original"]=>
+      string(62) "https://www.bgelectronics.eu/image/Kategori Snimki/fmtrans.png"
+      ["image_preview"]=>
+      string(76) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/fmtrans-200x200.png"
+      ["href"]=>
+      string(76) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/fm-transmiteri"
+    }
+    [504]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "504"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(34) "Видеорегистратори"
+          ["description"]=>
+          string(306) "&lt;p&gt;Широка гама от Видеорегистратори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(89) "Компютърни Аксесоари > Разни > Видеорегистратори"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/Kategori Snimki/razni/VIDEO.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/razni/VIDEO-200x200.png"
+      ["href"]=>
+      string(79) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/videoregistratori"
+    }
+    [502]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "502"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(23) "Екшън камери"
+          ["description"]=>
+          string(295) "&lt;p&gt;Широка гама от Екшън камери.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(78) "Компютърни Аксесоари > Разни > Екшън камери"
+      }
+      ["image_original"]=>
+      string(74) "https://www.bgelectronics.eu/image/Kategori Snimki/razni/action-camera.png"
+      ["image_preview"]=>
+      string(88) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/razni/action-camera-200x200.png"
+      ["href"]=>
+      string(75) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/eksh-n-kameri"
+    }
+    [328]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "328"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(29) "Почистване на LCD"
+          ["description"]=>
+          string(331) "&lt;p&gt;Широка гама от Почистващи комплекти за LCD екран.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(84) "Компютърни Аксесоари > Разни > Почистване на LCD"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/Kategori Snimki/lcd-cleaner.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/lcd-cleaner-200x200.png"
+      ["href"]=>
+      string(93) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/komplekti-za-pochistvane-na-lcd"
+    }
+    [506]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "506"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(14) "Стелажи"
+          ["description"]=>
+          string(307) "&lt;p&gt;Широка гама от Продуктови стелажи.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Компютърни Аксесоари > Разни > Стелажи"
+      }
+      ["image_original"]=>
+      string(67) "https://www.bgelectronics.eu/image/Kategori Snimki/razni/stelaj.png"
+      ["image_preview"]=>
+      string(81) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/razni/stelaj-200x200.png"
+      ["href"]=>
+      string(76) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/стелажи"
+    }
+    [594]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "594"
+      ["parent_id"]=>
+      string(3) "486"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(18) "Аксесоари"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(73) "Компютърни Аксесоари > Разни > Аксесоари"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/Kategori Snimki/chair.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/chair-200x200.png"
+      ["href"]=>
+      string(71) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/aksesoari"
+    }
+    [418]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "418"
+      ["parent_id"]=>
+      int(0)
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(33) "Мобилни Аксесоари"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(33) "Мобилни Аксесоари"
+      }
+      ["image_original"]=>
+      bool(false)
+      ["image_preview"]=>
+      bool(false)
+      ["href"]=>
+      string(71) "https://www.bgelectronics.eu/kompyut-rni-aksesoari/разни/aksesoari"
+    }
+    [429]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "429"
+      ["parent_id"]=>
+      string(3) "418"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(14) "Зарядни"
+          ["description"]=>
+          string(507) "&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Широка гама от зарядни за мобилни устройства.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/span&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(50) "Мобилни Аксесоари > Зарядни"
+      }
+      ["image_original"]=>
+      string(52) "https://www.bgelectronics.eu/image/14291-228x228.jpg"
+      ["image_preview"]=>
+      string(66) "https://www.bgelectronics.eu/image/cache/14291-228x228-200x200.jpg"
+      ["href"]=>
+      string(103) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни"
+    }
+    [581]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "581"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(4) "220V"
+          ["description"]=>
+          string(327) "&lt;p&gt;Широка гама от зарядни за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(57) "Мобилни Аксесоари > Зарядни > 220V"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/0/category/220charger.jpg"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/0/category/220charger-200x200.jpg"
+      ["href"]=>
+      string(111) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/220v-bg"
+    }
+    [448]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "448"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(16) "Micro USB 12/220"
+          ["description"]=>
+          string(327) "&lt;p&gt;Широка гама от зарядни за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Мобилни Аксесоари > Зарядни > Micro USB 12/220"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/0/category/microusb-charger.jpg"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/0/category/microusb-charger-200x200.jpg"
+      ["href"]=>
+      string(115) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/s-micro-usb"
+    }
+    [449]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "449"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "Apple 12/220"
+          ["description"]=>
+          string(327) "&lt;p&gt;Широка гама от зарядни за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(65) "Мобилни Аксесоари > Зарядни > Apple 12/220"
+      }
+      ["image_original"]=>
+      string(63) "https://www.bgelectronics.eu/image/0/category/apple-charger.jpg"
+      ["image_preview"]=>
+      string(77) "https://www.bgelectronics.eu/image/cache/0/category/apple-charger-200x200.jpg"
+      ["href"]=>
+      string(123) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/za-apple-1557314190"
+    }
+    [574]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "574"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(13) "Type-C 12/220"
+          ["description"]=>
+          string(327) "&lt;p&gt;Широка гама от зарядни за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(66) "Мобилни Аксесоари > Зарядни > Type-C 12/220"
+      }
+      ["image_original"]=>
+      string(62) "https://www.bgelectronics.eu/image/0/category/type-charger.jpg"
+      ["image_preview"]=>
+      string(76) "https://www.bgelectronics.eu/image/cache/0/category/type-charger-200x200.jpg"
+      ["href"]=>
+      string(112) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/s-type-c"
+    }
+    [582]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "582"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(8) "12 / 24V"
+          ["description"]=>
+          string(507) "&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Широка гама от зарядни за мобилни устройства.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/span&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(61) "Мобилни Аксесоари > Зарядни > 12 / 24V"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/0/category/12charger.jpg"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/0/category/12charger-200x200.jpg"
+      ["href"]=>
+      string(113) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/12-24v-bg"
+    }
+    [450]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "450"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(22) "Универсални"
+          ["description"]=>
+          string(325) "&lt;p&gt;Широка гама от Кабели за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(75) "Мобилни Аксесоари > Зарядни > Универсални"
+      }
+      ["image_original"]=>
+      string(67) "https://www.bgelectronics.eu/image/0/category/universal-charger.jpg"
+      ["image_preview"]=>
+      string(81) "https://www.bgelectronics.eu/image/cache/0/category/universal-charger-200x200.jpg"
+      ["href"]=>
+      string(126) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/universalni-1681676523"
+    }
+    [451]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "451"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Други"
+          ["description"]=>
+          string(29) "&lt;p&gt;&lt;br&gt;&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(63) "Мобилни Аксесоари > Зарядни > Други"
+      }
+      ["image_original"]=>
+      string(68) "https://www.bgelectronics.eu/image/0/png/category/charger-others.png"
+      ["image_preview"]=>
+      string(82) "https://www.bgelectronics.eu/image/cache/0/png/category/charger-others-200x200.png"
+      ["href"]=>
+      string(120) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/drugi-1339607531"
+    }
+    [742]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "742"
+      ["parent_id"]=>
+      string(3) "429"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(16) "Безжични"
+          ["description"]=>
+          string(344) "&lt;p&gt;Широка гама от Безжични зарядни за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Мобилни Аксесоари > Зарядни > Безжични"
+      }
+      ["image_original"]=>
+      string(72) "https://www.bgelectronics.eu/image/Kategori Snimki/wireless-chargers.png"
+      ["image_preview"]=>
+      string(86) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/wireless-chargers-200x200.png"
+      ["href"]=>
+      string(114) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/зарядни/bezzhichni"
+    }
+    [428]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "428"
+      ["parent_id"]=>
+      string(3) "418"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "Кабели"
+          ["description"]=>
+          string(325) "&lt;p&gt;Широка гама от Кабели за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(48) "Мобилни Аксесоари > Кабели"
+      }
+      ["image_original"]=>
+      string(78) "https://www.bgelectronics.eu/image/Cable_mobile_Phone/universal/thumb_3340.jpg"
+      ["image_preview"]=>
+      string(92) "https://www.bgelectronics.eu/image/cache/Cable_mobile_Phone/universal/thumb_3340-200x200.jpg"
+      ["href"]=>
+      string(111) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/кабелi-1608911642"
+    }
+    [445]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "445"
+      ["parent_id"]=>
+      string(3) "428"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(6) "Type-C"
+          ["description"]=>
+          string(291) "&lt;p&gt;Широка гама от Кабели Type-C.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(57) "Мобилни Аксесоари > Кабели > Type-C"
+      }
+      ["image_original"]=>
+      string(61) "https://www.bgelectronics.eu/image/0/category/typec-cable.jpg"
+      ["image_preview"]=>
+      string(75) "https://www.bgelectronics.eu/image/cache/0/category/typec-cable-200x200.jpg"
+      ["href"]=>
+      string(121) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/кабелi-1608911642/type-c-bg"
+    }
+    [443]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "443"
+      ["parent_id"]=>
+      string(3) "428"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(9) "Micro USB"
+          ["description"]=>
+          string(294) "&lt;p&gt;Широка гама от Кабели Micro USB.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(60) "Мобилни Аксесоари > Кабели > Micro USB"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/0/category/microusb-cable.jpg"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/0/category/microusb-cable-200x200.jpg"
+      ["href"]=>
+      string(124) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/кабелi-1608911642/micro-usb-bg"
+    }
+    [442]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "442"
+      ["parent_id"]=>
+      string(3) "428"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(6) "iPhone"
+          ["description"]=>
+          string(316) "&lt;p&gt;Широка гама от Кабели за Apple устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(57) "Мобилни Аксесоари > Кабели > iPhone"
+      }
+      ["image_original"]=>
+      string(65) "https://www.bgelectronics.eu/image/0/category/lightning-cable.jpg"
+      ["image_preview"]=>
+      string(79) "https://www.bgelectronics.eu/image/cache/0/category/lightning-cable-200x200.jpg"
+      ["href"]=>
+      string(165) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/кабелi-1608911642/Кабели за мобилни устройства"
+    }
+    [444]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "444"
+      ["parent_id"]=>
+      string(3) "428"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(8) "Mini USB"
+          ["description"]=>
+          string(293) "&lt;p&gt;Широка гама от Кабели Mini USB.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(59) "Мобилни Аксесоари > Кабели > Mini USB"
+      }
+      ["image_original"]=>
+      string(74) "https://www.bgelectronics.eu/image/Kategori Snimki/Kabeli-mobilni/mini.png"
+      ["image_preview"]=>
+      string(88) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/Kabeli-mobilni/mini-200x200.png"
+      ["href"]=>
+      string(123) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/кабелi-1608911642/mini-usb-bg"
+    }
+    [447]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "447"
+      ["parent_id"]=>
+      string(3) "428"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(22) "Комбинирани"
+          ["description"]=>
+          string(325) "&lt;p&gt;Широка гама от Кабели за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(73) "Мобилни Аксесоари > Кабели > Комбинирани"
+      }
+      ["image_original"]=>
+      string(81) "https://www.bgelectronics.eu/image/Kategori Snimki/Kabeli-mobilni/kombinirani.png"
+      ["image_preview"]=>
+      string(95) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/Kabeli-mobilni/kombinirani-200x200.png"
+      ["href"]=>
+      string(134) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/кабелi-1608911642/комбинирани"
+    }
+    [446]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "446"
+      ["parent_id"]=>
+      string(3) "428"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(20) "Преходници"
+          ["description"]=>
+          string(366) "&lt;p&gt;Широка гама от Преходници за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(71) "Мобилни Аксесоари > Кабели > Преходници"
+      }
+      ["image_original"]=>
+      string(79) "https://www.bgelectronics.eu/image/Kategori Snimki/Kabeli-mobilni/prehodnik.png"
+      ["image_preview"]=>
+      string(93) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/Kabeli-mobilni/prehodnik-200x200.png"
+      ["href"]=>
+      string(132) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/кабелi-1608911642/prehodnici-652818161"
+    }
+    [452]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "452"
+      ["parent_id"]=>
+      string(3) "418"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "Калъфи"
+          ["description"]=>
+          string(337) "&lt;div&gt;Широка гама от Калъфи за мобилни устройства.&lt;/div&gt;&lt;div&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/div&gt;&lt;div&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/div&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(48) "Мобилни Аксесоари > Калъфи"
+      }
+      ["image_original"]=>
+      string(78) "https://www.bgelectronics.eu/image/Kategori Snimki/51359-51360-1-1000x1000.jpg"
+      ["image_preview"]=>
+      string(92) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/51359-51360-1-1000x1000-200x200.jpg"
+      ["href"]=>
+      string(140) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/калъфи-za-мобилни-устройства"
+    }
+    [584]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "584"
+      ["parent_id"]=>
+      string(3) "452"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(5) "Apple"
+          ["description"]=>
+          string(324) "&lt;p&gt;Широка гама от калъфи за телефони и таблети.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(56) "Мобилни Аксесоари > Калъфи > Apple"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/0/png/category/apple-logo.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/0/png/category/apple-logo-200x200.png"
+      ["href"]=>
+      string(156) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/калъфи-za-мобилни-устройства/apple-531394578"
+    }
+    [583]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "583"
+      ["parent_id"]=>
+      string(3) "452"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(7) "Samsung"
+          ["description"]=>
+          string(324) "&lt;p&gt;Широка гама от калъфи за телефони и таблети.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(58) "Мобилни Аксесоари > Калъфи > Samsung"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/0/png/category/samsung-logo.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/0/png/category/samsung-logo-200x200.png"
+      ["href"]=>
+      string(159) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/калъфи-za-мобилни-устройства/samsung-1600032948"
+    }
+    [644]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "644"
+      ["parent_id"]=>
+      string(3) "452"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(6) "Huawei"
+          ["description"]=>
+          string(324) "&lt;p&gt;Широка гама от калъфи за телефони и таблети.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(57) "Мобилни Аксесоари > Калъфи > Huawei"
+      }
+      ["image_original"]=>
+      string(65) "https://www.bgelectronics.eu/image/0/png/category/huawei-logo.png"
+      ["image_preview"]=>
+      string(79) "https://www.bgelectronics.eu/image/cache/0/png/category/huawei-logo-200x200.png"
+      ["href"]=>
+      string(158) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/калъфи-za-мобилни-устройства/huawei-2058844986"
+    }
+    [212]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "212"
+      ["parent_id"]=>
+      string(3) "452"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(22) "Универсални"
+          ["description"]=>
+          string(324) "&lt;p&gt;Широка гама от калъфи за телефони и таблети.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(73) "Мобилни Аксесоари > Калъфи > Универсални"
+      }
+      ["image_original"]=>
+      string(71) "https://www.bgelectronics.eu/image/0/category/tablet-universal-case.jpg"
+      ["image_preview"]=>
+      string(85) "https://www.bgelectronics.eu/image/cache/0/category/tablet-universal-case-200x200.jpg"
+      ["href"]=>
+      string(152) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/калъфи-za-мобилни-устройства/universalni"
+    }
+    [545]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "545"
+      ["parent_id"]=>
+      string(3) "452"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(26) "Водоустойчиви"
+          ["description"]=>
+          string(324) "&lt;p&gt;Широка гама от калъфи за телефони и таблети.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(77) "Мобилни Аксесоари > Калъфи > Водоустойчиви"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/0/png/category/waterproof.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/0/png/category/waterproof-200x200.png"
+      ["href"]=>
+      string(167) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/калъфи-za-мобилни-устройства/водоустойчиви"
+    }
+    [340]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "340"
+      ["parent_id"]=>
+      string(3) "418"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(20) "Протектори"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(56) "Мобилни Аксесоари > Протектори"
+      }
+      ["image_original"]=>
+      string(118) "https://www.bgelectronics.eu/image/0-3mm-font-b-Screen-b-font-font-b-Protector-b-font-Explosion-Proof-High-quality.jpg"
+      ["image_preview"]=>
+      string(132) "https://www.bgelectronics.eu/image/cache/0-3mm-font-b-Screen-b-font-font-b-Protector-b-font-Explosion-Proof-High-quality-200x200.jpg"
+      ["href"]=>
+      string(109) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори"
+    }
+    [432]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "432"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(5) "Apple"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(64) "Мобилни Аксесоари > Протектори > Apple"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/0/png/category/apple-logo.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/0/png/category/apple-logo-200x200.png"
+      ["href"]=>
+      string(125) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/apple-822100402"
+    }
+    [431]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "431"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(7) "Samsung"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(66) "Мобилни Аксесоари > Протектори > Samsung"
+      }
+      ["image_original"]=>
+      string(66) "https://www.bgelectronics.eu/image/0/png/category/samsung-logo.png"
+      ["image_preview"]=>
+      string(80) "https://www.bgelectronics.eu/image/cache/0/png/category/samsung-logo-200x200.png"
+      ["href"]=>
+      string(128) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/samsung-2065096496"
+    }
+    [434]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "434"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(6) "Huawei"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(65) "Мобилни Аксесоари > Протектори > Huawei"
+      }
+      ["image_original"]=>
+      string(65) "https://www.bgelectronics.eu/image/0/png/category/huawei-logo.png"
+      ["image_preview"]=>
+      string(79) "https://www.bgelectronics.eu/image/cache/0/png/category/huawei-logo-200x200.png"
+      ["href"]=>
+      string(119) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/huawei-bg"
+    }
+    [601]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "601"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(6) "Xiaomi"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(65) "Мобилни Аксесоари > Протектори > Xiaomi"
+      }
+      ["image_original"]=>
+      string(57) "https://www.bgelectronics.eu/image/Kategori Snimki/mi.png"
+      ["image_preview"]=>
+      string(71) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mi-200x200.png"
+      ["href"]=>
+      string(119) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/xiaomi-bg"
+    }
+    [436]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "436"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(6) "Lenovo"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(65) "Мобилни Аксесоари > Протектори > Lenovo"
+      }
+      ["image_original"]=>
+      string(65) "https://www.bgelectronics.eu/image/0/png/category/lenovo-logo.png"
+      ["image_preview"]=>
+      string(79) "https://www.bgelectronics.eu/image/cache/0/png/category/lenovo-logo-200x200.png"
+      ["href"]=>
+      string(123) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/Lenovo,Lenovo"
+    }
+    [602]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "602"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(5) "Nokia"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(64) "Мобилни Аксесоари > Протектори > Nokia"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/Kategori Snimki/nokia.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/nokia-200x200.png"
+      ["href"]=>
+      string(118) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/nokia-bg"
+    }
+    [437]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "437"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(4) "Sony"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(63) "Мобилни Аксесоари > Протектори > Sony"
+      }
+      ["image_original"]=>
+      string(63) "https://www.bgelectronics.eu/image/0/png/category/sony-logo.png"
+      ["image_preview"]=>
+      string(77) "https://www.bgelectronics.eu/image/cache/0/png/category/sony-logo-200x200.png"
+      ["href"]=>
+      string(119) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/Sony,Sony"
+    }
+    [433]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "433"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(2) "LG"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(61) "Мобилни Аксесоари > Протектори > LG"
+      }
+      ["image_original"]=>
+      string(61) "https://www.bgelectronics.eu/image/0/png/category/lg-logo.png"
+      ["image_preview"]=>
+      string(75) "https://www.bgelectronics.eu/image/cache/0/png/category/lg-logo-200x200.png"
+      ["href"]=>
+      string(115) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/lg-bg"
+    }
+    [435]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "435"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(3) "HTC"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(62) "Мобилни Аксесоари > Протектори > HTC"
+      }
+      ["image_original"]=>
+      string(62) "https://www.bgelectronics.eu/image/0/png/category/htc-logo.png"
+      ["image_preview"]=>
+      string(76) "https://www.bgelectronics.eu/image/cache/0/png/category/htc-logo-200x200.png"
+      ["href"]=>
+      string(117) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/HTC.HTC"
+    }
+    [532]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "532"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(22) "Универсални"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(81) "Мобилни Аксесоари > Протектори > Универсални"
+      }
+      ["image_original"]=>
+      string(75) "https://www.bgelectronics.eu/image/Kategori Snimki/protektori/uni-glass.png"
+      ["image_preview"]=>
+      string(89) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/protektori/uni-glass-200x200.png"
+      ["href"]=>
+      string(132) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/universalni-1762939047"
+    }
+    [508]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "508"
+      ["parent_id"]=>
+      string(3) "340"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(17) "За таблет"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от стъклени протектори.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(76) "Мобилни Аксесоари > Протектори > За таблет"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/Kategori Snimki/tableti/tablet.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/tableti/tablet-200x200.png"
+      ["href"]=>
+      string(129) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/протектори/за-таблети"
+    }
+    [636]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "636"
+      ["parent_id"]=>
+      string(3) "418"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(23) "Промо пакети"
+          ["description"]=>
+          string(225) "&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(59) "Мобилни Аксесоари > Промо пакети"
+      }
+      ["image_original"]=>
+      bool(false)
+      ["image_preview"]=>
+      bool(false)
+      ["href"]=>
+      string(101) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/promo-paketi"
+    }
+    [586]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "586"
+      ["parent_id"]=>
+      string(3) "418"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(10) "Други"
+          ["description"]=>
+          string(331) "&lt;p&gt;Широка гама от Аксесоари за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(46) "Мобилни Аксесоари > Други"
+      }
+      ["image_original"]=>
+      bool(false)
+      ["image_preview"]=>
+      bool(false)
+      ["href"]=>
+      string(104) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563"
+    }
+    [591]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "591"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(29) "Смарт часовници"
+          ["description"]=>
+          string(301) "&lt;p&gt;Широка гама от смарт часовници.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(78) "Мобилни Аксесоари > Други > Смарт часовници"
+      }
+      ["image_original"]=>
+      string(62) "https://www.bgelectronics.eu/image/Kategori Snimki/watches.png"
+      ["image_preview"]=>
+      string(76) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/watches-200x200.png"
+      ["href"]=>
+      string(121) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/smart-chasovnici"
+    }
+    [741]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "741"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(20) "Осветление"
+          ["description"]=>
+          string(315) "&lt;p&gt;Широка гама от Фото и Видео осветление.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(69) "Мобилни Аксесоари > Други > Осветление"
+      }
+      ["image_original"]=>
+      string(64) "https://www.bgelectronics.eu/image/Kategori Snimki/lightning.png"
+      ["image_preview"]=>
+      string(78) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/lightning-200x200.png"
+      ["href"]=>
+      string(115) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/osvetlenie"
+    }
+    [645]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "645"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(16) "Телефони"
+          ["description"]=>
+          string(288) "&lt;p&gt;Широка гама от телефони.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(65) "Мобилни Аксесоари > Други > Телефони"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/0/png/category/phone.png"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/0/png/category/phone-200x200.png"
+      ["href"]=>
+      string(113) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/telefoni"
+    }
+    [575]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "575"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(14) "Батерии"
+          ["description"]=>
+          string(286) "&lt;p&gt;Широка гама от Батерии.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(63) "Мобилни Аксесоари > Други > Батерии"
+      }
+      ["image_original"]=>
+      string(61) "https://www.bgelectronics.eu/image/0/png/category/battery.png"
+      ["image_preview"]=>
+      string(75) "https://www.bgelectronics.eu/image/cache/0/png/category/battery-200x200.png"
+      ["href"]=>
+      string(112) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/baterii"
+    }
+    [610]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "610"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(16) "Слушалки"
+          ["description"]=>
+          string(329) "&lt;p&gt;Широка гама от слушалки за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(65) "Мобилни Аксесоари > Други > Слушалки"
+      }
+      ["image_original"]=>
+      string(72) "https://www.bgelectronics.eu/image/Kategori Snimki/mobile-headphones.png"
+      ["image_preview"]=>
+      string(86) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mobile-headphones-200x200.png"
+      ["href"]=>
+      string(114) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/slushalki"
+    }
+    [611]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "611"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(18) "Тонколони"
+          ["description"]=>
+          string(309) "&lt;p&gt;Широка гама от преносими тонколони.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(67) "Мобилни Аксесоари > Други > Тонколони"
+      }
+      ["image_original"]=>
+      string(69) "https://www.bgelectronics.eu/image/Kategori Snimki/mobile-speaker.png"
+      ["image_preview"]=>
+      string(83) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/mobile-speaker-200x200.png"
+      ["href"]=>
+      string(114) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/tonkoloni"
+    }
+    [503]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "503"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(13) "VR очила"
+          ["description"]=>
+          string(326) "&lt;p&gt;Широка гама от VR очила за виртуална реалност.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(62) "Мобилни Аксесоари > Други > VR очила"
+      }
+      ["image_original"]=>
+      string(70) "https://www.bgelectronics.eu/image/Kategori Snimki/razni/vr-ochila.png"
+      ["image_preview"]=>
+      string(84) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/razni/vr-ochila-200x200.png"
+      ["href"]=>
+      string(114) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/vr-ochila"
+    }
+    [487]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "487"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(22) "Инструменти"
+          ["description"]=>
+          string(335) "&lt;p&gt;Широка гама от Инструменти за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(71) "Мобилни Аксесоари > Други > Инструменти"
+      }
+      ["image_original"]=>
+      string(59) "https://www.bgelectronics.eu/image/0/png/category/tools.png"
+      ["image_preview"]=>
+      string(73) "https://www.bgelectronics.eu/image/cache/0/png/category/tools-200x200.png"
+      ["href"]=>
+      string(127) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/инструменти"
+    }
+    [497]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "497"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(25) "Селфи стикове"
+          ["description"]=>
+          string(297) "&lt;p&gt;Широка гама от селфи стикове.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(74) "Мобилни Аксесоари > Други > Селфи стикове"
+      }
+      ["image_original"]=>
+      string(60) "https://www.bgelectronics.eu/image/Kategori Snimki/selfi.png"
+      ["image_preview"]=>
+      string(74) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/selfi-200x200.png"
+      ["href"]=>
+      string(127) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/селфи-стикove"
+    }
+    [482]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "482"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(12) "Стойки"
+          ["description"]=>
+          string(325) "&lt;p&gt;Широка гама от стойки за мобилни устройства.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(61) "Мобилни Аксесоари > Други > Стойки"
+      }
+      ["image_original"]=>
+      string(67) "https://www.bgelectronics.eu/image/Kategori Snimki/drugi/stoiki.png"
+      ["image_preview"]=>
+      string(81) "https://www.bgelectronics.eu/image/cache/Kategori Snimki/drugi/stoiki-200x200.png"
+      ["href"]=>
+      string(117) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/стойки"
+    }
+    [483]=>
+    array(7) {
+      ["category_id"]=>
+      string(3) "483"
+      ["parent_id"]=>
+      string(3) "586"
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(2) {
+          ["name"]=>
+          string(26) "Четци за карти"
+          ["description"]=>
+          string(318) "&lt;p&gt;Широка гама от Четци за карти за телефон.&lt;/p&gt;&lt;p&gt;Търговия на едро с Компютърни и GSM аксесоари.&lt;/p&gt;&lt;p&gt;Гъвкави условия. Преференциални цени. Експресна доставка.&lt;/p&gt;"
+        }
+      }
+      ["cat_full_name"]=>
+      array(1) {
+        [2]=>
+        string(75) "Мобилни Аксесоари > Други > Четци за карти"
+      }
+      ["image_original"]=>
+      string(67) "https://www.bgelectronics.eu/image/0/png/category/reader-mobile.png"
+      ["image_preview"]=>
+      string(81) "https://www.bgelectronics.eu/image/cache/0/png/category/reader-mobile-200x200.png"
+      ["href"]=>
+      string(159) "https://www.bgelectronics.eu/аксесоари-за-мобилни-устройства/drugo-177151563/chetec-za-karti-na-мобилни-устройства"
+    }
+  }
+  ["attribute_groups"]=>
+  array(25) {
+    [19]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(26) "Bluetooth слушалки"
+        }
+      }
+      ["attributes"]=>
+      array(2) {
+        [86]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(48) "Издръжливост на батерията"
+          }
+        }
+        [211]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(33) "Съвместими модели"
+          }
+        }
+      }
+    }
+    [12]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(23) "Версия кабел"
+        }
+      }
+      ["attributes"]=>
+      array(2) {
+        [21]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Версия кабел"
+          }
+        }
+        [47]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(19) "Дължина (м)"
+          }
+        }
+      }
+    }
+    [42]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(27) "Външни батерии"
+        }
+      }
+      ["attributes"]=>
+      array(0) {
+      }
+    }
+    [26]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(18) "Джойстици"
+        }
+      }
+      ["attributes"]=>
+      array(3) {
+        [58]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(8) "Wireless"
+          }
+        }
+        [56]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(37) "Дължина на кабела (М)"
+          }
+        }
+        [134]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(21) "Тип продукт"
+          }
+        }
+      }
+    }
+    [40]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(55) "Зарядни за мобилни устройства"
+        }
+      }
+      ["attributes"]=>
+      array(2) {
+        [97]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(33) "Входно напрежение"
+          }
+        }
+        [75]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(14) "Портове"
+          }
+        }
+      }
+    }
+    [30]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(25) "Звукови карти"
+        }
+      }
+      ["attributes"]=>
+      array(3) {
+        [66]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(22) "Брой канали "
+          }
+        }
+        [68]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(35) "Конектори (входове)"
+          }
+        }
+        [67]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(33) "Конектори (изходи)"
+          }
+        }
+      }
+    }
+    [17]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(20) "Информация"
+        }
+      }
+      ["attributes"]=>
+      array(10) {
+        [168]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(5) "AM/FM"
+          }
+        }
+        [166]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(14) "Батерия"
+          }
+        }
+        [163]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Връзка USB"
+          }
+        }
+        [165]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(44) "Издръжливост на батерия"
+          }
+        }
+        [61]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(22) "Мощност RMS (W)"
+          }
+        }
+        [167]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(12) "Обхват"
+          }
+        }
+        [60]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(26) "Съпротивление"
+          }
+        }
+        [164]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(21) "Тип продукт"
+          }
+        }
+        [117]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(21) "Тип система"
+          }
+        }
+        [62]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Усилвател"
+          }
+        }
+      }
+    }
+    [38]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(53) "Кабели за мобилни устройства"
+        }
+      }
+      ["attributes"]=>
+      array(1) {
+        [177]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Дължина (M)"
+          }
+        }
+      }
+    }
+    [23]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(23) "Кард рийдъри"
+        }
+      }
+      ["attributes"]=>
+      array(3) {
+        [73]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(32) "Поддържани карти "
+          }
+        }
+        [72]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(43) "Скорост на трансфер (Mbps)"
+          }
+        }
+        [131]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(6) "Тип"
+          }
+        }
+      }
+    }
+    [35]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(16) "Материал"
+        }
+      }
+      ["attributes"]=>
+      array(1) {
+        [59]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(37) "Макс. диагонал (инча)"
+          }
+        }
+      }
+    }
+    [16]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(16) "Микрофон"
+        }
+      }
+      ["attributes"]=>
+      array(4) {
+        [44]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(56) "Диаметър високоговорители (мм)"
+          }
+        }
+        [112]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(36) "Дължина на кабела (M)"
+          }
+        }
+        [113]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Микрофон"
+          }
+        }
+        [43]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(19) "Честота (Hz)"
+          }
+        }
+      }
+    }
+    [20]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(18) "Микрофони"
+        }
+      }
+      ["attributes"]=>
+      array(3) {
+        [125]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(6) "Тип"
+          }
+        }
+        [160]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(14) "Честота"
+          }
+        }
+        [124]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(28) "Чувствителност"
+          }
+        }
+      }
+    }
+    [29]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(25) "Мрежови карти"
+        }
+      }
+      ["attributes"]=>
+      array(1) {
+        [98]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(46) "Макс. скорост на трансфер"
+          }
+        }
+      }
+    }
+    [8]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(8) "Общи"
+        }
+      }
+      ["attributes"]=>
+      array(75) {
+        [225]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(22) "Bluetooth Версия"
+          }
+        }
+        [63]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(7) "aТип"
+          }
+        }
+        [217]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Автономия"
+          }
+        }
+        [201]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(12) "Антена"
+          }
+        }
+        [23]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(10) "Букса"
+          }
+        }
+        [55]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(21) "Вид разтвор"
+          }
+        }
+        [236]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(37) "Вид улавяне на звука"
+          }
+        }
+        [64]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(29) "Видео резолюция"
+          }
+        }
+        [80]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Видео формат"
+          }
+        }
+        [85]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(13) "Връзка "
+          }
+        }
+        [242]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(27) "Въздущен поток"
+          }
+        }
+        [15]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Гаранция"
+          }
+        }
+        [129]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Дебелина"
+          }
+        }
+        [36]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(17) "Диагонал "
+          }
+        }
+        [84]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(12) "Дизайн"
+          }
+        }
+        [218]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(14) "Дисплей"
+          }
+        }
+        [28]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(10) "Други"
+          }
+        }
+        [16]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(14) "Дължина"
+          }
+        }
+        [65]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(29) "Заснемащ сензор"
+          }
+        }
+        [31]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(20) "Захранване"
+          }
+        }
+        [240]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(41) "Захранващо напрежение"
+          }
+        }
+        [224]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(10) "Кабел"
+          }
+        }
+        [191]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(24) "Капацитет (mAh)"
+          }
+        }
+        [92]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Категории"
+          }
+        }
+        [35]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(20) "Клавиатура"
+          }
+        }
+        [239]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(43) "Ключови характеристики"
+          }
+        }
+        [54]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(21) "Количество "
+          }
+        }
+        [40]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Комплект"
+          }
+        }
+        [231]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(39) "Максимална дистанция"
+          }
+        }
+        [243]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(35) "Максимална мощност"
+          }
+        }
+        [22]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(10) "Марка"
+          }
+        }
+        [153]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Материал"
+          }
+        }
+        [216]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(29) "Материал каишка"
+          }
+        }
+        [77]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(10) "Модел"
+          }
+        }
+        [48]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(15) "Мощност "
+          }
+        }
+        [234]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(24) "Ниво на звука"
+          }
+        }
+        [14]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Опаковка"
+          }
+        }
+        [41]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(37) "Осветена клавиатура"
+          }
+        }
+        [24]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Параметри"
+          }
+        }
+        [214]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(21) "Подходящ за"
+          }
+        }
+        [219]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(33) "Показани дейности"
+          }
+        }
+        [203]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Портове LAN"
+          }
+        }
+        [206]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(29) "Предназначен за"
+          }
+        }
+        [52]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Приложимост "
+          }
+        }
+        [238]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(37) "Работна температура"
+          }
+        }
+        [78]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(30) "Размер на екрана"
+          }
+        }
+        [34]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(36) "Размери (Д х В х Ш мм)"
+          }
+        }
+        [38]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Резолюция"
+          }
+        }
+        [178]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(20) "Свързаност"
+          }
+        }
+        [241]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(10) "Сокет"
+          }
+        }
+        [204]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(22) "Стандарт Wi-Fi"
+          }
+        }
+        [200]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(28) "Стандартизация"
+          }
+        }
+        [220]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(8) "Стил"
+          }
+        }
+        [93]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(27) "Съвместим диск"
+          }
+        }
+        [25]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(37) "Съвместими телефони"
+          }
+        }
+        [233]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(31) "Съдържание пакет"
+          }
+        }
+        [232]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(10) "Тегло"
+          }
+        }
+        [152]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Тип аксесоар"
+          }
+        }
+        [226]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(29) "Тип закопчаване"
+          }
+        }
+        [99]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(17) "Тип карта"
+          }
+        }
+        [102]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(27) "Тип клавиатура"
+          }
+        }
+        [146]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(25) "Тип конектор 1"
+          }
+        }
+        [144]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(25) "Тип конектор 2"
+          }
+        }
+        [235]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Тип микрофон"
+          }
+        }
+        [221]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(19) "Тип монтаж"
+          }
+        }
+        [100]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Тип подложка"
+          }
+        }
+        [222]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(27) "Тип приложение"
+          }
+        }
+        [53]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(22) "Тип продукт "
+          }
+        }
+        [223]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(25) "Тип протектор"
+          }
+        }
+        [118]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(25) "Тип тонколона"
+          }
+        }
+        [237]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(32) "Топлопроводимост"
+          }
+        }
+        [205]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(16) "Употреба"
+          }
+        }
+        [81]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(27) "Фото резолюция"
+          }
+        }
+        [17]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(28) "Характеристика"
+          }
+        }
+        [12]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(8) "Цвят"
+          }
+        }
+      }
+    }
+    [33]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(33) "Охладители лаптоп"
+        }
+      }
+      ["attributes"]=>
+      array(4) {
+        [151]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(36) "Диаметър на перката"
+          }
+        }
+        [94]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(45) "Макс. съвместимост (инча)"
+          }
+        }
+        [69]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(25) "Ниво на шум (dB)"
+          }
+        }
+        [70]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(48) "Скорост на въртене (об/мин)"
+          }
+        }
+      }
+    }
+    [36]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(26) "Памети и карти"
+        }
+      }
+      ["attributes"]=>
+      array(3) {
+        [19]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Капацитет (GB)"
+          }
+        }
+        [90]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(8) "Клас"
+          }
+        }
+        [227]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(17) "Тип памет"
+          }
+        }
+      }
+    }
+    [25]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(32) "Подложки за мишки"
+        }
+      }
+      ["attributes"]=>
+      array(3) {
+        [42]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(17) "Покритие "
+          }
+        }
+        [20]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(12) "Размер"
+          }
+        }
+        [133]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(6) "Тип"
+          }
+        }
+      }
+    }
+    [43]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(24) "Разклонители"
+        }
+      }
+      ["attributes"]=>
+      array(4) {
+        [195]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(25) "Брой USB гнезда"
+          }
+        }
+        [193]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(21) "Брой гнезда"
+          }
+        }
+        [192]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(29) "Дължина кабел (M)"
+          }
+        }
+        [194]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(26) "Превключвател"
+          }
+        }
+      }
+    }
+    [11]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(24) "Спецификация"
+        }
+      }
+      ["attributes"]=>
+      array(9) {
+        [87]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Мощност (W)"
+          }
+        }
+        [88]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(24) "Напрежение (V)"
+          }
+        }
+        [49]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(35) "Размери конектор mm "
+          }
+        }
+        [89]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(26) "Сила на тока (A)"
+          }
+        }
+        [210]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(29) "Съвместим бранд"
+          }
+        }
+        [207]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(58) "Съвместима операционна система"
+          }
+        }
+        [212]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(33) "Съвместими модели"
+          }
+        }
+        [50]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(41) "Съвместими съоръжения"
+          }
+        }
+        [208]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(14) "Функции"
+          }
+        }
+      }
+    }
+    [44]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(12) "Стойки"
+        }
+      }
+      ["attributes"]=>
+      array(0) {
+      }
+    }
+    [41]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(24) "Съвместимост"
+        }
+      }
+      ["attributes"]=>
+      array(3) {
+        [184]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(25) "Диагонал (инч)"
+          }
+        }
+        [183]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(24) "Съвместимост"
+          }
+        }
+        [185]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Тип аксесоар"
+          }
+        }
+      }
+    }
+    [14]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(20) "Технология"
+        }
+      }
+      ["attributes"]=>
+      array(4) {
+        [18]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(18) "Интерфейс"
+          }
+        }
+        [76]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(24) "Резолюция (dpi)"
+          }
+        }
+        [105]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(20) "Технология"
+          }
+        }
+        [106]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(17) "Тип мишка"
+          }
+        }
+      }
+    }
+    [34]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(23) "Тип аксесоар"
+        }
+      }
+      ["attributes"]=>
+      array(2) {
+        [96]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(36) "Диаметър на перката"
+          }
+        }
+        [95]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(39) "Съвместими процесори"
+          }
+        }
+      }
+    }
+    [32]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(25) "Тип конектор 1"
+        }
+      }
+      ["attributes"]=>
+      array(1) {
+        [145]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(23) "Тип аксесоар"
+          }
+        }
+      }
+    }
+    [24]=>
+    array(2) {
+      ["description"]=>
+      array(1) {
+        [2]=>
+        array(1) {
+          ["name"]=>
+          string(6) "Хъб"
+        }
+      }
+      ["attributes"]=>
+      array(1) {
+        [132]=>
+        array(1) {
+          [2]=>
+          array(1) {
+            ["name"]=>
+            string(14) "Портове"
+          }
+        }
+      }
+    }
+  }
+  ["manufacturers"]=>
+  array(29) {
+    [55]=>
+    string(4) "Aula"
+    [13]=>
+    string(5) "Camac"
+    [39]=>
+    string(7) "Cantell"
+    [46]=>
+    string(4) "D   "
+    [14]=>
+    string(6) "DeTech"
+    [40]=>
+    string(10) "Dragon War"
+    [53]=>
+    string(8) "Duracell"
+    [35]=>
+    string(3) "EMY"
+    [41]=>
+    string(7) "Earldom"
+    [26]=>
+    string(7) "FanTech"
+    [37]=>
+    string(5) "Ipega"
+    [38]=>
+    string(6) "Jakemy"
+    [25]=>
+    string(7) "Kisonli"
+    [32]=>
+    string(7) "LB-LINK"
+    [15]=>
+    string(5) "LDNIO"
+    [44]=>
+    string(7) "Loshine"
+    [47]=>
+    string(5) "Mixie"
+    [43]=>
+    string(7) "Mocoson"
+    [50]=>
+    string(8) "Moveteck"
+    [28]=>
+    string(8) "No brand"
+    [16]=>
+    string(5) "OKADE"
+    [17]=>
+    string(6) "OVLENG"
+    [54]=>
+    string(6) "Oakorn"
+    [51]=>
+    string(7) "OnePlus"
+    [27]=>
+    string(5) "Remax"
+    [18]=>
+    string(8) "SIYOTEAM"
+    [24]=>
+    string(5) "Vykon"
+    [42]=>
+    string(6) "Yookie"
+    [36]=>
+    string(7) "ZornWee"
+  }
+  ["languages"]=>
+  array(4) {
+    [2]=>
+    string(9) "Bulgarian"
+    [1]=>
+    string(7) "English"
+    [3]=>
+    string(5) "Greek"
+    [7]=>
+    string(6) "Romana"
+  }
+}
+Array
